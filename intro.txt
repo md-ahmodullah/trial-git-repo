@@ -7,4 +7,8 @@ And switched into it using "git checkout dev" command.
 
 Now, I am in dev branch and these changes will save and add and commit to git. Then I will push the code to see what's happende actuallly.
 
+
 The last time, I was created a branch using git bash. Now, I have created a branch using Github Graphical User Interface(GUI). This para will represent the new branch name "devGUI" and these line of text will added. I will commit this here and After that I will merge it with master branch. That's it.
+
+Now, we are branching and merging locally. First, I make this changes and next i will add and commit it. Then I will merge it. After that, We will pull the changes in local computer then push it into github.
+
