@@ -8,3 +8,5 @@ And switched into it using "git checkout dev" command.
 Now, I am in dev branch and these changes will save and add and commit to git. Then I will push the code to see what's happende actuallly.
 
 Now, we are branching and merging locally. First, I make this changes and next i will add and commit it. Then I will merge it. After that, We will pull the changes in local computer then push it into github.
+
+Practice again to become more clear and understand the concept more clearly.
