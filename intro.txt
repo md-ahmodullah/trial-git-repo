@@ -1,3 +1,8 @@
 hello, it's me ahmodullah. Adding a file without any reason. Just for practicing git branching nd merging.
 
 I've done git pull and bring it into my local computer. Now, it's push it again on gtithub to save this para.
+
+I have created a new branch named "dev" using "git branch dev" command.
+And switched into it using "git checkout dev" command.
+
+Now, I am in dev branch and these changes will save and add and commit to git. Then I will push the code to see what's happende actuallly.
