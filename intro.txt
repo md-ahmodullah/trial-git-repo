@@ -12,3 +12,7 @@ The last time, I was created a branch using git bash. Now, I have created a bran
 
 Now, we are branching and merging locally. First, I make this changes and next i will add and commit it. Then I will merge it. After that, We will pull the changes in local computer then push it into github.
 
+Now, we are branching and merging locally. First, I make this changes and next i will add and commit it. Then I will merge it. After that, We will pull the changes in local computer then push it into github.
+
+Practice again to become more clear and understand the concept more clearly.
+
