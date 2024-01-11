@@ -1,1 +1,3 @@
 hello, it's me ahmodullah. Adding a file without any reason. Just for practicing git branching nd merging.
+
+I've done git pull and bring it into my local computer. Now, it's push it again on gtithub to save this para.
